@@ -43,7 +43,10 @@ For more information, visit http://www.ShippingEasy.com
 == Frequently Asked Questions ==
 -
 == Changelog ==
--
+
+= 1.0 =
+* Initial release.
+
 == Upgrade Notice ==
 -
 == Screenshots ==
